@@ -1,0 +1,36 @@
+Module 1 Summary : Cybersecurity Careers
+Congratulations! You have completed this module. At this point in the course, you know:
+
+Cybersecurity is a shield for malicious cyber threats.
+
+Cybersecurity as a profession brings corresponding financial rewards and associated responsibilities.
+
+Consumer demand for privacy and security is directly proportionate to the growth in demand for cybersecurity professionals.
+
+Contenders can be from non-technical backgrounds, such as veterans, armed forces, security personnel, law enforcement officers, project managers, and tech writers.
+
+Those working in technical jobs such as IT support, helpdesk, software developers, and networking specialists may find a smooth transition to the cybersecurity field.
+
+Cybersecurity aspirants should undergo training such as online courses, certification and diploma programs, boot camps, and internships.
+
+Networking allows aspiring individuals to make important connections with professionals in the industry.
+
+Cybersecurity Specialist is responsible for establishing and implementing security protocols to protect systems and data.
+
+Cybercrime Analyst role comprises identifying patterns and predicting future attacks based on historical data and current trends.
+
+Incident and Intrusion Analysts focus on handling and investigating incidents of security breaches.
+
+IT Auditors are responsible for examining and evaluating an organization’s IT systems, practices, and operations to ensure compliance with laws and industry standards.
+
+Mid-level roles are Cybersecurity Analyst, Cybersecurity Consultant, and Penetration and Vulnerability Tester.
+
+Advanced-level careers in Cybersecurity represent the apex of professional development in the field.
+
+Cybersecurity Manager develops and implements security policies, manages a team of cybersecurity professionals, and liaises with senior management on all security-related issues.
+
+A Chief Information Security Officer (CISO) oversees the deployment of security technologies and ensures their effectiveness through regular audits and testing.
+
+Cybersecurity Engineer design and create secure networks, systems, and application architectures.
+
+Cybersecurity Architects develop a comprehensive framework detailing how various security elements will interact and support each other.
