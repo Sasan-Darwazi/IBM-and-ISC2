@@ -1,0 +1,19 @@
+Cybersecurity Analyst:
+
+Similar Jobs: Information security analyst, Security analyst, IT security analyst and Cyber threat analyst
+	
+A mid-level cybersecurity analyst safeguards an organization's computer networks and systems. They are responsible for monitoring the organization's systems for potential security breaches, investigating incidents, implementing security standards and protocols, and conducting regular system audits. Their role is crucial in protecting sensitive information from potential threats.
+
+
+Cybersecurity Consultant:
+
+Similar Jobs: Physical security specialists, Security consultants, Personnel security specialists, Cloud security engineers and Security specialists
+	
+A cybersecurity consultant is an external expert who guides organizations on improving their cybersecurity framework. They perform thorough audits of the organization's system and procedures, identify vulnerabilities, and suggest areas for improvement. Their responsibilities include reporting their findings to senior management and proposing strategic solutions, designing and implementing robust cybersecurity strategies, and providing training on best cybersecurity practices. They also stay updated on emerging cybersecurity threats and trends, adapt strategies accordingly, and collaborate with various stakeholders to ensure a unified approach to security. Their role extends to providing incident response support in case of a security breach
+
+
+Penetration and Vulnerability Tester;
+
+Similar Jobs: Penetration tester, Vulnerability analyst, Information security analyst, Cloud security engineer, Security analyst
+	
+A penetration and vulnerability tester plays a vital role in an organization's cybersecurity infrastructure. This role involves identifying and exploiting system vulnerabilities in an ethical and controlled manner to prevent potential cyberattacks. Duties include conducting comprehensive system analyses using automated and manual techniques, meticulously documenting the testing process, and recommending robust security measures. The tester also collaborates with IT teams to implement protective solutions, educate on best practices for system security, and contributes to developing incident response plans. 
