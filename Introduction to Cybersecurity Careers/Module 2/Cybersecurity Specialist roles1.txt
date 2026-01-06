@@ -13,12 +13,12 @@ Intrusion and Incident Analyst:
 
 Similar Jobs: Cybersecurity incident response analysts, Incident response analysts, Incident response specialists and Information security analysts
 
-An Intrusion and Incident Analyst is responsible for identifying and responding to cybersecurity breaches, locating the source, and examining the extent of the damage. They develop and employ containment strategies to lessen the impact, perform thorough investigations to comprehend the intrusion’s cause, and participate in recovery efforts after the incident. They work with the cybersecurity team to improve protective strategies, blocking future intrusions.
+An Intrusion and Incident Analyst is responsible for identifying and responding to cybersecurity breaches, locating the source, and examining the extent of the damage. They develop and employ containment strategies to lessen the impact, perform thorough investigations to comprehend the intrusion’s cause and participate in recovery efforts after the incident. They work with the cybersecurity team to improve protective strategies, blocking future intrusions.
 
 
 IT Auditor:
 
-Similar Jobs: IT audit managers, IT internal auditors, IT service delivery managers, Audit and assurance managers
+Similar Jobs:IT audit managers, IT internal auditors, IT service delivery managers, Audit and assurance managers
 
 
 An IT Auditor’s role is to investigate and examine an organization’s IT systems, practices, and operations to ensure compliance with laws and industry standards. They recognize potential security risks and breaches, advise necessary changes to strengthen IT security, and conduct regular audits to validate the effectiveness of security measures and protocols. They aim to protect the organization’s data from unauthorized access or alterations.
