@@ -1,0 +1,93 @@
+After reading this article, you will be able to:
+
+Identify technical skills important for a cybersecurity professional.
+
+Describe the concepts related to each skill.
+
+Hardware: As a cybersecurity professional, it’s important to understand the following hardware related concepts: 
+
+Computer architecture and hardware components
+
+Hardware interfaces and their functionalities
+
+Troubleshooting and resolving common hardware issues and failures
+
+Hardware security measures and potential vulnerabilities
+
+Hardware configuration and management
+
+Installation and configuration of hardware components 
+
+Hardware maintenance practices
+
+
+Operating System:
+
+As a cybersecurity professional, it’s important to understand the following operating system related concepts: 
+
+Operating systems (Windows, MacOS, Linux), and their respective functionalities and system architectures
+
+Processes and threads, and how they are managed within the operating system
+
+Memory management within operating systems and how it can impact system performance and security
+
+
+Networking:
+	
+As a cybersecurity professional, it’s important to understand the following networking related concepts: 
+
+Structure and functions of various types of networks
+
+Network protocols and their roles in data transmission
+
+OSI model and the function of each layer in the network communication process 
+
+Identifying, diagnosing, and resolving common network problems
+
+Network monitoring tools
+
+Network security measures (firewalls, intrusion detection systems, and secure network architectures)
+
+Wireless networking principles and wireless security measures
+
+
+Programming Basic
+
+As a cybersecurity professional, it’s important to understand the following basic programming related concepts: 
+
+Programming languages (especially Python) and their specific uses in cybersecurity
+
+Data structures and algorithms, Secure coding practices, Reading and interpreting code, Web programming principles, Software debugging.
+
+	
+As a cybersecurity professional, it’s important to understand the following basic database-related concepts:
+
+Database types - relational, non-relational (NoSQL), in-memory - and their respective uses and security considerations
+
+Database schemas and the role they play in organizing and securing data
+
+Database administration tasks such as backups, restoration, and replication for maintaining data integrity and availability
+
+Using permissions and roles within a database to limit access to sensitive data.
+
+
+Cloud
+
+As a cybersecurity professional, it’s important to understand the following basic cloud-related concepts:
+
+Cloud service models - Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and their respective security implications
+
+Shared responsibility model in cloud security, delineating the security tasks between cloud service providers and customers
+
+Cloud deployment models such as public, private, hybrid, and community clouds, and their associated risks
+
+
+Information System: Cloud
+
+As a cybersecurity professional, it’s important to understand the following basic cloud-related concepts:
+
+Cloud service models - Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and their respective security implications
+
+Shared responsibility model in cloud security, delineating the security tasks between cloud service providers and customers
+
+Cloud deployment models such as public, private, hybrid, and community clouds, and their associated risks
