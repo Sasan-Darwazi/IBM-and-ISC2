@@ -1,0 +1,30 @@
+Soft skills refer to personal attributes, interpersonal capabilities, and social attitudes that allow individuals to interact effectively with others. These skills are often overlooked, yet they are increasingly important in cybersecurity.
+
+Attention to detail 
+
+Attention to detail is a soft skill that refers to an individual's ability to perform tasks accurately. It involves noticing, understanding, and remembering each element and fine details of a task or situation. E.G.: A keen eye for detail is essential in identifying and addressing technical issues within complex cybersecurity systems.
+
+Creative thinking 
+Creative thinking is looking at problems from different angles, thinking outside the box, and developing innovative solutions. Creative thinking often involves challenging conventional wisdom and exploring uncharted territory in problem-solving.
+
+Critical thinking 
+Critical thinking is the ability to analyze information objectively, logically evaluate different aspects of a situation, and make sound decisions based on this analysis. E.G.: Critical thinking aids cybersecurity professionals when analyzing the threat landscape, considering potential attacks, and anticipating likely tactics that attackers might use.
+
+Problem solving 
+Problem-solving is the ability to understand a problem, analyze it from different perspectives, and devise an effective solution. E.G.: By identifying potential weaknesses or system errors, cybersecurity professionals can breaches.
+
+Communication 
+Communication, encompassing both written and spoken forms, is the ability to convey information effectively and clearly, foster open dialogue, and listen actively. 
+E.G.:When a security breach occurs, a cybersecurity professional must be able to report the incident accurately and comprehensively.
+
+Teamwork
+
+Teamwork is the ability to work effectively in a group, collaborate with others, and leverage the collective knowledge and skills of the team to achieve a common goal. In cybersecurity, teamwork plays a vital role in several aspects.
+E.G.: Sharing knowledge and experiences within the team is crucial for staying ahead of potential threats.
+
+
+Leadership 
+
+Leadership guides, inspires, and influences a team toward achieving a common goal.
+Effective cybersecurity leaders can envision the big picture, understand the potential threats and opportunities, and develop a strategic roadmap to achieve the organization’s cybersecurity objectives.
+
