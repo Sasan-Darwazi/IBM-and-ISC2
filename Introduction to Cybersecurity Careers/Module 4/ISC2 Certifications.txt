@@ -1,0 +1,30 @@
+ISC2 Certifications  
+The International Information System Security Certification Consortium, or (ISC)² (
+https://www.isc2.org/
+ ), is a globally renowned non-profit organization that offers several highly regarded certifications in the field of cybersecurity.
+
+Description 
+
+CC 
+
+The CC (Certified in Cybersecurity) credential is an entry-level certification. It validates a professional’s knowledge and capabilities within the realm of cybersecurity. It verifies an individual’s ability to understand and effectively manage various cybersecurity threats, risks, and potential attacks. This certification focuses on cybersecurity concepts such as cybersecurity, network security, application security, systems security, and data security. The (ISC)² CC certification is ideal for professionals seeking to enter the cybersecurity field. 
+
+CCSP
+
+The Certified Cloud Security Professional (CCSP), offered by the International Information System Security Certification Consortium (ISC)², is a globally recognized credential that validates a professional's expertise in cloud security. The certification encompasses many topics, including cloud architecture, design, operations, and service orchestration. Its rigorous curriculum ensures that a CCSP-certified professional demonstrates a deep understanding of the intricacies of securing and managing cloud environments. This certification is ideal for professionals who apply best practices to cloud security architecture, design, and operations.
+
+SSCP
+
+The Systems Security Certified Practitioner (SSCP) validates an individual's proficiency in implementing, monitoring, and administering IT infrastructure. The certification focuses on various system security concepts, including access controls, administration, auditing and monitoring, risk, response and recovery, cryptography, data communication, and malicious code/malware. This certification is ideal for IT administrators, managers, and network security professionals looking to enhance their credentials. 
+
+CISSP
+
+The Certified Information Systems Security Professional (CISSP) verifies an individual's comprehensive knowledge in designing, implementing, and managing a top-notch cybersecurity program. The exam covers eight domains of IT security, including security and risk management, asset security, security engineering, communications and network security, identity and access management, security assessment and testing, security operations, and software development security. The CISSP certification is a gold-standard credential. It is highly valued by IT professionals aiming to establish their cybersecurity sector expertise and employers seeking skilled and certified security professionals.
+
+CSSLP
+
+The Certified Secure Software Lifecycle Professional (CSSLP) validates an individual's proficiency in incorporating security practices into the software development lifecycle (SDLC). This includes understanding and applying security in software requirements, design, implementation, and testing phases, as well as software acceptance, deployment, operations, maintenance, and disposal. The CSSLP is ideal for software developers, engineers, architects, and security professionals involved in the SDLC.
+
+CGRC
+
+Certified in the Governance of Enterprise IT Risk and Compliance (CGRC) validates an individual's proficiency in understanding and managing enterprise IT risk and compliance governance. The CGRC certification evaluates and mitigates IT risk, ensures compliance with applicable laws, regulations, and policies, and aligns IT risk management with the organization's overall risk management. This certification is ideal for IT professionals involved in risk and compliance management, auditing, and governance, demonstrating their competence in effectively managing enterprise IT risks and compliance.
